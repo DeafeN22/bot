@@ -1,0 +1,19 @@
+{
+  "name": "TNkP",
+  "description": "TicketBot",
+  "repository": "https://github.com/DeafeN22/bot",
+  "env": {
+    "TOKEN": {
+        "description": "NTc0MjUxNDY4MTc4MTk0NDMy.XM2tCQ.n0KQAVGsSzHTvwZQDNKAvno2HbA",
+        "required": true
+    },
+    "GUILD_ID": {
+      "description": "569274817967292436",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "t!",
+      "required": false
+    }
+  }
+}
